@@ -1,2 +1,2 @@
 # IPFS-Ethereum-Decentralized_image_sharing_system
-Creating a decentralized image sharing system to as an application to demonstrate the solution to the storage issue in Ethereum blockchain
+Created a decentralized image sharing system as an application, to demonstrate the solution to the storage issues in Ethereum blockchain
